@@ -1,3 +1,18 @@
+   
+
+<!--Preload Links by Furqan Corbin-->
+
+    <link href='https://cdn.plyr.io/3.6.6/plyr.css' rel='stylesheet'/>
+
+    <link href='path/to/plyr.css' rel='stylesheet'/>
+
+    <link as='script' href='https://cdn.ampproject.org/v0.js' rel='preload'/>
+
+<link as='script' href='https://www.google-analytics.com/analytics.js' rel='preload'/>
+
+<link as='script' href='https://cdn.ampproject.org/v0/amp-iframe-0.1.js' rel='preload'/>
+
+<link as='script' href='https://cdn.ampproject.org/v0/amp-lightbox-0.1.js' rel='preload'/>
 
     <!-- Font Awesome Free 5.7.2 -->
 
